@@ -1,0 +1,22 @@
+{
+  "name": "sample-electron-app",
+  "version": "1.0.0",
+  "description": "Sample electron app",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saddham/sample-electron-app.git"
+  },
+  "author": "Saddham Pathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saddham/sample-electron-app/issues"
+  },
+  "homepage": "https://github.com/Saddham/sample-electron-app#readme",
+  "devDependencies": {
+    "electron": "^9.0.0"
+  }
+}
